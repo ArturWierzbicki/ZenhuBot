@@ -1,0 +1,14 @@
+{
+  "name": "zenhubot-zenhub-api-adapter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+
+  },
+  "dependencies": {
+  },
+  "keywords": [],
+  "author": "Artur Wierzbicki",
+  "license": "MIT"
+}
